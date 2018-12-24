@@ -1,0 +1,41 @@
+body {
+    background: #3f72af;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #112d4e, #3f72af);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #3f72af, #3f72af); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+}
+
+.navbar{
+    background-color: #212121;
+}
+
+.navbar .navbar-brand{
+    color: #dbe2ef;
+}
+
+.navbar .navbar-nav .nav-item .nav-link{
+    color: #dbe2ef;
+}
+
+.navbar-brand {
+    font-family: 'Roboto', cursive;
+    font-size: 1.5rem;
+}
+
+.nav-link {
+    font-family: 'Roboto', cursive;
+}
+
+header img {
+    width: 50%;
+    margin-top: 60px;
+    margin-bottom: 60px;
+}
+
+.github{
+    background-color: #212121;
+}
+
+.page-footer{
+    font-family: 'Roboto', cursive;
+    background-color: white;
+}
